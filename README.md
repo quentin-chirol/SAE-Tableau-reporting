@@ -3,8 +3,25 @@ git config --global http.proxy http://username:password@proxy.iutn.univ-poitiers
 git push origin imane
 
 TASK :
+-VBA
 Imane: 
+Effacer
+Guide
+Connecter
+-Excel
+Mise en forme Conditionelle 
 
 Quentin:
+-VBA
 Base de données:
-Numero
+Numero | Prenom | Nom 
+Matiere : SAE
+NumeroEtu | note
+-Excel
+Graphique 
+
+
+
+
+En +
+Espace Admin Moyen classe , plus control
