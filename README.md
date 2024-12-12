@@ -20,6 +20,8 @@ NumeroEtu | note
 -Excel
 Graphique 
 
+Page excel:
+Menu, Coef, Etudiant, (Admin), 
 
 
 
