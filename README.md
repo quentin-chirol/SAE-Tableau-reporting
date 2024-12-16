@@ -2,27 +2,39 @@
 git config --global http.proxy http://username:password@proxy.iutn.univ-poitiers.fr:3128
 git push origin imane
 
-TASK :
--VBA
-Imane: 
-Effacer
-Guide
-Connecter
--Excel
-Mise en forme Conditionelle 
+STXT(texte, no_départ, no_car)
 
+____________________________________________
+TASKS :
+____________________________________________
+Imane: 
+-VBA : 
+------------------
+Guide (readme.txt)
+feu pour notes 
+-Excel: 
+------------------
+Graphiques type ratio pour notes 
+
+Numero | Prenom | Nom  X
+Matiere : SAE X
+NumeroEtu | note X
+Mise en forme Conditionelle X
+
+____________________________________________
 Quentin:
--VBA
-Base de données:
-Numero | Prenom | Nom 
-Matiere : SAE
-NumeroEtu | note
--Excel
-Graphique 
+-VBA : 
+------------------
+modifier (control de saisie)
+effacer
+-Excel :
+-------------------
+Base de données: X
+recup infos userform X 
+
 
 Page excel:
-Menu, Coef, Etudiant, (Admin), 
-
+Menu, Coef, Etudiant, (Admin), Connecter( masquage des feuils selon profil) 
 
 
 En +
