@@ -17,6 +17,7 @@ formulaire : ajouter -modifier
 -Excel: 
 ------------------
 Graphiques type ratio pour notes 
+export en pdf
 
 Numero | Prenom | Nom  X
 Matiere : SAE X
