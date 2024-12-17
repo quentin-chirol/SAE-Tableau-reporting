@@ -12,6 +12,8 @@ Imane:
 ------------------
 Guide (readme.txt)
 feu pour notes 
+formulaire : cnnection inscription ( page menu demarage)
+formulaire : ajouter -modifier
 -Excel: 
 ------------------
 Graphiques type ratio pour notes 
